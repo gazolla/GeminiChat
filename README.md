@@ -10,7 +10,7 @@ Este repositório contém o código fonte de um aplicativo Java que demonstra co
 ## Instalação
 1. **Clone o repositório:**
    ```bash
-   git clone  [https://github.com/gazolla/GeminiChat.git]
+   git clone https://github.com/gazolla/GeminiChat.git
    
 
 ## Contribuições 
